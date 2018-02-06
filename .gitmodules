@@ -1,0 +1,81 @@
+[submodule "demo-nuxtjs"]
+	path = demo-nuxtjs
+	url = https://github.com/wedeploy/demo-nuxtjs
+[submodule "demo-rocketchat"]
+	path = demo-rocketchat
+	url = https://github.com/wedeploy/demo-rocketchat
+[submodule "demo-nodejs"]
+	path = demo-nodejs
+	url = https://github.com/wedeploy/demo-nodejs
+[submodule "demo-whatsapp"]
+	path = demo-whatsapp
+	url = https://github.com/wedeploy/demo-whatsapp
+[submodule "demo-wordpress"]
+	path = demo-wordpress
+	url = https://github.com/wedeploy/demo-wordpress
+[submodule "demo-liferay-dxp"]
+	path = demo-liferay-dxp
+	url = https://github.com/wedeploy/demo-liferay-dxp
+[submodule "demo-supermarket"]
+	path = demo-supermarket
+	url = https://github.com/wedeploy/demo-supermarket
+[submodule "demo-spotify"]
+	path = demo-spotify
+	url = https://github.com/wedeploy/demo-spotify
+[submodule "demo-user-roles"]
+	path = demo-user-roles
+	url = https://github.com/wedeploy/demo-user-roles
+[submodule "demo-mongodb"]
+	path = demo-mongodb
+	url = https://github.com/wedeploy/demo-mongodb
+[submodule "demo-owncloud"]
+	path = demo-owncloud
+	url = https://github.com/wedeploy/demo-owncloud
+[submodule "demo-ghost"]
+	path = demo-ghost
+	url = https://github.com/wedeploy/demo-ghost
+[submodule "demo-jekyll"]
+	path = demo-jekyll
+	url = https://github.com/wedeploy/demo-jekyll
+[submodule "demo-liferay-portal"]
+	path = demo-liferay-portal
+	url = https://github.com/wedeploy/demo-liferay-portal
+[submodule "demo-file-upload"]
+	path = demo-file-upload
+	url = https://github.com/wedeploy/demo-file-upload
+[submodule "demo-postgres"]
+	path = demo-postgres
+	url = https://github.com/wedeploy/demo-postgres
+[submodule "demo-mysql"]
+	path = demo-mysql
+	url = https://github.com/wedeploy/demo-mysql
+[submodule "demo-elasticsearch"]
+	path = demo-elasticsearch
+	url = https://github.com/wedeploy/demo-elasticsearch
+[submodule "demo-mariadb"]
+	path = demo-mariadb
+	url = https://github.com/wedeploy/demo-mariadb
+[submodule "demo-micro"]
+	path = demo-micro
+	url = https://github.com/wedeploy/demo-micro
+[submodule "demo-redis"]
+	path = demo-redis
+	url = https://github.com/wedeploy/demo-redis
+[submodule "demo-newsletter"]
+	path = demo-newsletter
+	url = https://github.com/wedeploy/demo-newsletter
+[submodule "demo-apache"]
+	path = demo-apache
+	url = https://github.com/wedeploy/demo-apache
+[submodule "demo-jenkins"]
+	path = demo-jenkins
+	url = https://github.com/wedeploy/demo-jenkins
+[submodule "demo-piwik"]
+	path = demo-piwik
+	url = https://github.com/wedeploy/demo-piwik
+[submodule "demo-tomcat"]
+	path = demo-tomcat
+	url = https://github.com/wedeploy/demo-tomcat
+[submodule "demo-wildfly"]
+	path = demo-wildfly
+	url = https://github.com/wedeploy/demo-wildfly
