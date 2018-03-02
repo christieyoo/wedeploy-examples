@@ -1,81 +1,81 @@
-[submodule "demo-nuxtjs"]
-	path = demo-nuxtjs
-	url = https://github.com/wedeploy/demo-nuxtjs
-[submodule "demo-rocketchat"]
-	path = demo-rocketchat
-	url = https://github.com/wedeploy/demo-rocketchat
-[submodule "demo-nodejs"]
-	path = demo-nodejs
-	url = https://github.com/wedeploy/demo-nodejs
-[submodule "demo-whatsapp"]
-	path = demo-whatsapp
-	url = https://github.com/wedeploy/demo-whatsapp
-[submodule "demo-wordpress"]
-	path = demo-wordpress
-	url = https://github.com/wedeploy/demo-wordpress
-[submodule "demo-liferay-dxp"]
-	path = demo-liferay-dxp
-	url = https://github.com/wedeploy/demo-liferay-dxp
-[submodule "demo-supermarket"]
-	path = demo-supermarket
-	url = https://github.com/wedeploy/demo-supermarket
-[submodule "demo-spotify"]
-	path = demo-spotify
-	url = https://github.com/wedeploy/demo-spotify
-[submodule "demo-user-roles"]
-	path = demo-user-roles
-	url = https://github.com/wedeploy/demo-user-roles
-[submodule "demo-mongodb"]
-	path = demo-mongodb
-	url = https://github.com/wedeploy/demo-mongodb
-[submodule "demo-owncloud"]
-	path = demo-owncloud
-	url = https://github.com/wedeploy/demo-owncloud
-[submodule "demo-ghost"]
-	path = demo-ghost
-	url = https://github.com/wedeploy/demo-ghost
-[submodule "demo-jekyll"]
-	path = demo-jekyll
-	url = https://github.com/wedeploy/demo-jekyll
-[submodule "demo-liferay-portal"]
-	path = demo-liferay-portal
-	url = https://github.com/wedeploy/demo-liferay-portal
-[submodule "demo-file-upload"]
-	path = demo-file-upload
-	url = https://github.com/wedeploy/demo-file-upload
-[submodule "demo-postgres"]
-	path = demo-postgres
-	url = https://github.com/wedeploy/demo-postgres
-[submodule "demo-mysql"]
-	path = demo-mysql
-	url = https://github.com/wedeploy/demo-mysql
-[submodule "demo-elasticsearch"]
-	path = demo-elasticsearch
-	url = https://github.com/wedeploy/demo-elasticsearch
-[submodule "demo-mariadb"]
-	path = demo-mariadb
-	url = https://github.com/wedeploy/demo-mariadb
-[submodule "demo-micro"]
-	path = demo-micro
-	url = https://github.com/wedeploy/demo-micro
-[submodule "demo-redis"]
-	path = demo-redis
-	url = https://github.com/wedeploy/demo-redis
-[submodule "demo-newsletter"]
-	path = demo-newsletter
-	url = https://github.com/wedeploy/demo-newsletter
-[submodule "demo-apache"]
-	path = demo-apache
-	url = https://github.com/wedeploy/demo-apache
-[submodule "demo-jenkins"]
-	path = demo-jenkins
-	url = https://github.com/wedeploy/demo-jenkins
-[submodule "demo-piwik"]
-	path = demo-piwik
-	url = https://github.com/wedeploy/demo-piwik
-[submodule "demo-tomcat"]
-	path = demo-tomcat
-	url = https://github.com/wedeploy/demo-tomcat
-[submodule "demo-wildfly"]
-	path = demo-wildfly
-	url = https://github.com/wedeploy/demo-wildfly
+[submodule "nuxtjs-example"]
+	path = nuxtjs-example
+	url = https://github.com/wedeploy-examples/nuxtjs-example
+[submodule "rocketchat-example"]
+	path = rocketchat-example
+	url = https://github.com/wedeploy-examples/rocketchat-example
+[submodule "nodejs-example"]
+	path = nodejs-example
+	url = https://github.com/wedeploy-examples/nodejs-example
+[submodule "whatsapp-example"]
+	path = whatsapp-example
+	url = https://github.com/wedeploy-examples/whatsapp-example
+[submodule "wordpress-example"]
+	path = wordpress-example
+	url = https://github.com/wedeploy-examples/wordpress-example
+[submodule "liferay-dxp-example"]
+	path = liferay-dxp-example
+	url = https://github.com/wedeploy-examples/liferay-dxp-example
+[submodule "supermarket-example"]
+	path = supermarket-example
+	url = https://github.com/wedeploy-examples/supermarket-example
+[submodule "spotify-example"]
+	path = spotify-example
+	url = https://github.com/wedeploy-examples/spotify-example
+[submodule "user-roles-example"]
+	path = user-roles-example
+	url = https://github.com/wedeploy-examples/user-roles-example
+[submodule "mongodb-example"]
+	path = mongodb-example
+	url = https://github.com/wedeploy-examples/mongodb-example
+[submodule "owncloud-example"]
+	path = owncloud-example
+	url = https://github.com/wedeploy-examples/owncloud-example
+[submodule "ghost-example"]
+	path = ghost-example
+	url = https://github.com/wedeploy-examples/ghost-example
+[submodule "jekyll-example"]
+	path = jekyll-example
+	url = https://github.com/wedeploy-examples/jekyll-example
+[submodule "liferay-portal-example"]
+	path = liferay-portal-example
+	url = https://github.com/wedeploy-examples/liferay-portal-example
+[submodule "file-upload-example"]
+	path = file-upload-example
+	url = https://github.com/wedeploy-examples/file-upload-example
+[submodule "postgres-example"]
+	path = postgres-example
+	url = https://github.com/wedeploy-examples/postgres-example
+[submodule "mysql-example"]
+	path = mysql-example
+	url = https://github.com/wedeploy-examples/mysql-example
+[submodule "elasticsearch-example"]
+	path = elasticsearch-example
+	url = https://github.com/wedeploy-examples/elasticsearch-example
+[submodule "mariadb-example"]
+	path = mariadb-example
+	url = https://github.com/wedeploy-examples/mariadb-example
+[submodule "micro-example"]
+	path = micro-example
+	url = https://github.com/wedeploy-examples/micro-example
+[submodule "redis-example"]
+	path = redis-example
+	url = https://github.com/wedeploy-examples/redis-example
+[submodule "newsletter-example"]
+	path = newsletter-example
+	url = https://github.com/wedeploy-examples/newsletter-example
+[submodule "apache-example"]
+	path = apache-example
+	url = https://github.com/wedeploy-examples/apache-example
+[submodule "jenkins-example"]
+	path = jenkins-example
+	url = https://github.com/wedeploy-examples/jenkins-example
+[submodule "piwik-example"]
+	path = piwik-example
+	url = https://github.com/wedeploy-examples/piwik-example
+[submodule "tomcat-example"]
+	path = tomcat-example
+	url = https://github.com/wedeploy-examples/tomcat-example
+[submodule "wildfly-example"]
+	path = wildfly-example
+	url = https://github.com/wedeploy-examples/wildfly-example
