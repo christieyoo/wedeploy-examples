@@ -7,7 +7,13 @@
 [submodule "nodejs-example"]
 	path = nodejs-example
 	url = https://github.com/wedeploy-examples/nodejs-example
-[submodule "whatsapp-example"]
+[submodule "whatsapp-web-example"]
+	path = whatsapp-web-example
+	url = https://github.com/wedeploy-examples/whatsapp-web-example
+[submodule "whatsapp-ios-example"]
+	path = whatsapp-ios-example
+	url = https://github.com/wedeploy-examples/whatsapp-ios-example
+[submodule "whatsapp-android-example"]
 	path = whatsapp-example
 	url = https://github.com/wedeploy-examples/whatsapp-example
 [submodule "wordpress-example"]
@@ -19,6 +25,12 @@
 [submodule "supermarket-example"]
 	path = supermarket-example
 	url = https://github.com/wedeploy-examples/supermarket-example
+[submodule "supermarket-ios-example"]
+	path = supermarket-ios-example
+	url = https://github.com/wedeploy-examples/supermarket-ios-example
+[submodule "supermarket-android-example"]
+	path = supermarket-android-example
+	url = https://github.com/wedeploy-examples/supermarket-android-example
 [submodule "spotify-example"]
 	path = spotify-example
 	url = https://github.com/wedeploy-examples/spotify-example
