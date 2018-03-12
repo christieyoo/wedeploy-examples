@@ -4,4 +4,4 @@
 
 ## Want to create a new example?
 
-Follow the [guidelines](https://github.com/wedeploy/example-guidelines) and [submit your example](https://github.com/wedeploy/demos/issues/new?title=New+example:&body=Link+to+repository:).
+Follow the [guidelines](https://github.com/wedeploy-examples/example-guidelines) and [submit your example](https://github.com/wedeploy/wedeploy-examples/issues/new?title=New+example:&body=Link+to+repository:).
