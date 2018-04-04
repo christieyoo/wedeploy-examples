@@ -1,6 +1,6 @@
 # WeDeploy Examples
 
-> An aggregation of all the examples we created to facilitate your deployments.
+> [See our collection of code examples](https://github.com/wedeploy-examples)
 
 ## Want to create a new example?
 
