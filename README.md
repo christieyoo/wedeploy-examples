@@ -1,4 +1,4 @@
-# WeDeploy Examples
+# [WeDeploy Examples](https://github.com/wedeploy-examples)
 
 > [See our collection of code examples](https://github.com/wedeploy-examples)
 
