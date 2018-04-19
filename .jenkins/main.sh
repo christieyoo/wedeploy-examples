@@ -93,7 +93,7 @@ run_tests() {
   export TEAM_USER_PW="L6P&ZExVXydC"
   export DISPLAY=:99.0
 
-  rake ci:demos || rake ci:rerun
+  rake ci:examples || rake ci:rerun
 }
 
 setup_functional_tests() {
