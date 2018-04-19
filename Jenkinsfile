@@ -75,9 +75,9 @@ pipeline {
   }
   post {
     always {
-      junit(allowEmptyResults: true, testResults: '.runner/wedeploy-examples/test-results/TEST-*.xml')
+      junit(allowEmptyResults: true, testResults: '.runner/wedeploy-functional-tests/test-results/TEST-*.xml')
 
-      archiveArtifacts artifacts: '.runner/wedeploy-examples/html-report/*.html'
+      archiveArtifacts artifacts: '.runner/wedeploy-functional-tests/html-report/*.html'
 
       sh './.jenkins/main.sh --shutdown-infrastructure'
     }
