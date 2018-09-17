@@ -110,7 +110,8 @@ setup_functional_tests() {
 
 start_infrastructure() {
   local BUILD_TAG=$1
-  bash "$CURRENT_DIR/.runner/ci-infrastructure/runner/exploded-infra-runner.sh" --run $BUILD_TAG
+  local WEDEPLOY_ENVIRONMENT=wd-paas-test-us-east-1
+  bash "$CURRENT_DIR/.runner/ci-infrastructure/runner/exploded-infra-runner.sh" --run $BUILD_TAG $WEDEPLOY_ENVIRONMENT
 }
 
 shutdown_infrastructure() {
